@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <a href="https://twitter.com/joaovictor_OFC" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mpiresjuliane" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/jo%C3%A3o-victor-souza-pereira-91178b1a3/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="juliane-pires" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/joao-victor-full-stack" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="juliane-pires" height="30" width="40" /></a>
 <a href="https://www.facebook.com/joaovictorsouza.souza" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="juliane pires" height="30" width="40" /></a>
 <a href="https://www.instagram.com/joao_victortb/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mpires.juliane" height="30" width="40" /></a>
 
