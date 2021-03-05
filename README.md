@@ -20,6 +20,4 @@
 <a href="https://www.instagram.com/joao_victortb/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mpires.juliane" height="30" width="40" /></a>
 
 
- <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=julianepires&show_icons=true&locale=en&layout=compact" alt="julianepires" /></p>
