@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Rádio Fresh West](https://radiofreshwest.com.br)
 
-- 🌱 I’m currently learning **CSS, Javascript, Typescript, NodeJS, ReactJS, React Native, PHP and Shell Script**
+- 🌱 I’m currently learning **CSS, Javascript, Typescript, NodeJS, ReactJS, React Native, Angular, Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/joaovictortb](https://github.com/joaovictortb)
 
