@@ -1,7 +1,6 @@
 <h1 align="center">Welcome 👋, I'm João Victor</h1>
 <h3 align="center">A passionate computer science learner</h3>
 
-- 🔭 I’m currently working on [Rádio Fresh West](https://radiofreshwest.com.br)
 - 🌱 I’m currently learning **CSS, Javascript, Typescript, NodeJS, ReactJS, React Native, NextJS, Python**
 - 👨‍💻 All of my projects are available at [https://github.com/joaovictortb](https://github.com/joaovictortb)
 - 📫 How to reach me **joaovictorofc@gmail.com**
